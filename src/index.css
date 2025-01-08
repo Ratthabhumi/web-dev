@@ -1,0 +1,19 @@
+/* index.css */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #F5F5DC; /* Beige */
+  color: #4B4B4B; /* Dark Gray */
+}
+
+header a {
+  text-decoration: none;
+  color: #8B4513; /* Saddle Brown */
+  font-weight: bold;
+}
+
+button:hover {
+  opacity: 0.8;
+}
+
