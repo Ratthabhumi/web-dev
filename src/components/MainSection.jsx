@@ -53,7 +53,7 @@ const styles = {
     fontWeight: 'bold',
   },
   aboutMeText: {
-    fontSize: '17px', // Increase the font size of the "Hi there" text
+    fontSize: '16px', // Increase the font size of the "Hi there" text
   },
   buttons: {
     display: 'flex',
