@@ -1,0 +1,13 @@
+/* Layout.css */
+.layout {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+  }
+  
+  .main-content {
+    flex: 1;
+    padding: 10px 20px; /* Adjust padding as needed */
+    margin-top: 0; /* Ensure there's no extra margin at the top */
+  }
+  

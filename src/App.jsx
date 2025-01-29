@@ -1,13 +1,14 @@
 // src/App.jsx
-import Header from './components/Header';
+import Layout from './layout/layout';
 import MainSection from './components/MainSection';
+import Banner from './components/banner/Banner'; // Updated path
 
 function App() {
   return (
-    <div>
-      <Header />
+    <Layout>
+      <Banner title=" [ Let's start our journey. ]" buttonText="Hire Me!" />
       <MainSection />
-    </div>
+    </Layout>
   );
 }
 

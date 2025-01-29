@@ -11,7 +11,7 @@ const MainSection = () => {
         <h1 style={styles.helloText}>Hello !</h1>
         <p style={styles.aboutMeHeader}>About Me</p>
         <p style={styles.aboutMeText}>
-          Hi there! I'm Ratthabhumi Peansukmanee, a Computer Engineering student at King Mongkut's Institute of Technology Ladkrabang (KMITL) with a passion for web development. With a solid foundation in both hardware and software, I have honed my skills in creating efficient, user-friendly web applications.
+          Hi there! I am Ratthabhumi Peansukmanee, a Computer Engineering student at King Mong kut Institute of Technology Ladkrabang (KMITL) with a passion for web development. With a solid foundation in both hardware and software, I have honed my skills in creating efficient, user-friendly web applications.
         </p>
         <div style={styles.buttons}>
           <Button label="Resume" color="#8B4513" /> {/* Green color */}
